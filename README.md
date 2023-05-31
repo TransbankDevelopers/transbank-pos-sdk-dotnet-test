@@ -1,5 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/y5tmyw3510dngbmh?svg=true)](https://ci.appveyor.com/project/TransbankDevelopers/transbank-pos-sdk-dotnet)
 [![NuGet version](https://badge.fury.io/nu/TransbankPOSSDK.svg)](https://www.nuget.org/packages/TransbankPOSSDK)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=TransbankDevelopers_transbank-pos-sdk-dotnet-test&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=TransbankDevelopers_transbank-pos-sdk-dotnet-test)
 
 # Transbank POS .Net SDK
 
